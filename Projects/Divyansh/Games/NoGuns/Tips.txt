@@ -1,0 +1,8 @@
+Do not try this at home.
+A projectile goes farthest when thrown at an angle of 45 degrees.
+You get affected by a grenade only when you are int the direct line of sight to it.
+In a scoreboard : K = kills, D = deaths, S = score (K - D).
+If your frames are dropping, try reducing the quality from the settings menu to make your game run smoother.
+Some items can be cooked by holding them in your hand and throwing them just before they explode.
+Brown doors are permanently locked, you can not open them.
+You move faster in the direction where you are looking.

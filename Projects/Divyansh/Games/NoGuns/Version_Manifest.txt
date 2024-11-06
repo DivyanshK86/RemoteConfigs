@@ -1,0 +1,7 @@
+- (string) file definer if (v) that means file is correct
+- (version) latest version available number ( acc to app version )
+- (Date) (MM/DD/YYYY) date of expiration of old versions 
+- (URL) Play store link
+- (int) max ccu capacity
+- (int) (0/1) (off/on) Show Ads On/Off Setting
+- (int) unlock time (in minutes)
