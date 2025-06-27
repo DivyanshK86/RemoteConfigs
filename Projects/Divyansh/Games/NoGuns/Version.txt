@@ -4,5 +4,5 @@ v
 https://play.google.com/store/apps/details?id=com.GLITCH_MONSTER.NO_GUNS
 100
 0
-30
+4320
 https://raw.githubusercontent.com/DivyanshK86/RemoteConfigs/refs/heads/main/Projects/Divyansh/Games/NoGuns/NewsTxt.txt
