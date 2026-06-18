@@ -1,8 +1,8 @@
 v
-0.1.35
-15/07/2025
+0.1.45
+19/06/2026
 https://play.google.com/store/apps/details?id=com.GLITCH_MONSTER.NO_GUNS
-100
+20
 0
 120
 https://raw.githubusercontent.com/DivyanshK86/RemoteConfigs/refs/heads/main/Projects/Divyansh/Games/NoGuns/NewsTxt.txt
