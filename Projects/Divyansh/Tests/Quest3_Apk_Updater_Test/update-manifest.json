@@ -1,7 +1,7 @@
 {
-  "versionCode": 2,
-  "versionName": "1.1.0",
+  "versionCode": 3,
+  "versionName": "1.2.0",
   "apkUrl": "https://tagglabs-bdt.s3.ap-south-1.amazonaws.com/ApkUpdateTest/Q3Updater.apk",
   "rarUrl": "https://tagglabs-bdt.s3.ap-south-1.amazonaws.com/WindowsUpdateTest/Build.rar",
-  "notes": "Bug fixes and improvements"
+  "notes": "Lol"
 }
