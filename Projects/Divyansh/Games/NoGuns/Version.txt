@@ -1,6 +1,6 @@
 v
-0.1.45
-19/06/2026
+0.1.46
+24/09/2026
 https://play.google.com/store/apps/details?id=com.GLITCH_MONSTER.NO_GUNS
 20
 0
