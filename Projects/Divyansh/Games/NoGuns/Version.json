@@ -4,7 +4,7 @@
     "updateURL": "https://play.google.com/store/apps/details?id=com.GLITCH_MONSTER.NO_GUNS",
     "maxCCU": 150,
     "adsSetting": 0,
-    "serverSelection": 1,
+    "serverSelection": 0,
     "unlockTimeMinutes": 120,
     "newsURL": "https://raw.githubusercontent.com/DivyanshK86/RemoteConfigs/refs/heads/main/Projects/Divyansh/Games/NoGuns/NewsTxt.txt"
 }
