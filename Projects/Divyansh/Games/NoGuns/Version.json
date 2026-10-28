@@ -6,5 +6,6 @@
     "adsSetting": 0,
     "serverSelection": 0,
     "unlockTimeMinutes": 120,
-    "newsURL": "https://raw.githubusercontent.com/DivyanshK86/RemoteConfigs/refs/heads/main/Projects/Divyansh/Games/NoGuns/NewsTxt.txt"
+    "newsURL": "https://raw.githubusercontent.com/DivyanshK86/RemoteConfigs/refs/heads/main/Projects/Divyansh/Games/NoGuns/NewsTxt.txt",
+    "nameServiceURL": "https://141-147-51-235.sslip.io/noguns/name"
 }
