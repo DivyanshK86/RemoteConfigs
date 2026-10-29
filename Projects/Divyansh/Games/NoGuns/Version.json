@@ -1,5 +1,5 @@
 {
-    "latestVersion": "0.1.55",
+    "latestVersion": "0.1.57",
     "expirationDate": "2026-10-20",
     "updateURL": "https://play.google.com/store/apps/details?id=com.GLITCH_MONSTER.NO_GUNS",
     "maxCCU": 150,
@@ -7,5 +7,5 @@
     "serverSelection": 0,
     "unlockTimeMinutes": 120,
     "newsURL": "https://raw.githubusercontent.com/DivyanshK86/RemoteConfigs/refs/heads/main/Projects/Divyansh/Games/NoGuns/NewsTxt.txt",
-    "nameServiceURL": "https://141-147-51-235.sslip.io/noguns/name"
+    "nameServiceURL": "https://palparivaar.duckdns.org/noguns/name"
 }
